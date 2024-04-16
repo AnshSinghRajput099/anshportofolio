@@ -1,0 +1,51 @@
+Ansh Singh
+
+Front-End Web Developer & Game Developer
+
+Sasaram, Bihar, India
+Phone no. = 8825266852
+email & gmail = anshwithlaptop@gmail.com
+
+Website = 
+
+Professional Summary
+Innovative and detail-oriented Front-End Web Developer and Game Developer with a proven track record in designing and implementing interactive websites and engaging game applications. Proficient in a multitude of web technologies and game development tools, with the ability to translate complex requirements into high-performance solutions. Passionate about creating user-centric experiences and dedicated to continuous learning and improvement in the field of web and game development.
+
+Technical Skills
+Languages: HTML5, CSS3, JavaScript, Python, c#
+
+Frameworks/Libraries: React, Unity
+
+Tools: Git, Visual Studio Code, Microsoft vs code
+
+Game Development: Game engine architecture, Physics, AI programming
+
+Design: Responsive design, User Interface (UI), User Experience (UX)
+
+
+Projects
+Sector 7 in Future 
+
+Engineered the core gameplay mechanics and implemented AI algorithms for character behavior.
+
+Utilized Unity to create immersive game environments and dynamic effects.
+
+Website 
+
+Designed and developed a user-friendly e-commerce platform with React, enhancing the shopping experience.
+
+Integrated RESTful APIs for real-time data retrieval and display.
+
+Education
+
+DAV PUBLIC SCHOOL SASARAM
+Class = 8th in 2024
+
+Certifications
+Certified Front-End Developer, Code Camp's
+Unity Certified Developer
+Professional Affiliations
+Member, Front-End Developers Group
+Languages
+Hindi (Fluent)
+English (Proficient/Basic)
